@@ -4,4 +4,4 @@ class New
     {
         console.log("Hello");
     }
-}
+}//hi
